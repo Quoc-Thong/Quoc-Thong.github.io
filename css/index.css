@@ -20,7 +20,7 @@
 }
 
 .headsub p {
-  color: rgb(245, 194, 128);
+  color: aquamarine;
 }
 
 .main-down {
@@ -37,4 +37,9 @@
 
 .practise-wrap a {
   margin: 60px;
+}
+
+.main-down p {
+  font-size: 40px;
+  color: aqua;
 }
