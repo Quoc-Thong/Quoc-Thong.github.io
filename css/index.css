@@ -11,10 +11,11 @@
   text-align: center;
   font-size: 30px;
   display: flex;
+  height: 1000px;
 }
 
 .headsub {
-  padding: 50px;
+  padding: 300px 100px;
   line-height: 64px;
   max-width: 30%;
 }
@@ -25,7 +26,7 @@
 
 .main-down {
   margin: 0 auto;
-  padding: 50px;
+  padding: 200px 50px;
   text-align: center;
 }
 
